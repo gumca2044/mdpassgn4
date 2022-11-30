@@ -1,0 +1,15 @@
+[submodule "themes/tailbliss"]
+	path = themes/tailbliss
+	url = https://github.com/nusserstudios/tailbliss
+[submodule "themes/terminal"]
+	path = themes/terminal
+	url = https://github.com/panr/hugo-theme-terminal
+[submodule "themes/hugo-theme-terminal"]
+	path = themes/hugo-theme-terminal
+	url = https://github.com/panr/hugo-theme-terminal
+[submodule "themes/Binario"]
+	path = themes/Binario
+	url = https://github.com/Vimux/Binario
+[submodule "themes/Niello"]
+	path = themes/Niello
+	url = https://github.com/guangmean/Niello
